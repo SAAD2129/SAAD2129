@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAAD2129
 - 👀 I’m interested in competative coding & developement
-- 🌱 I’m currently learning dsa & doing competative
+- 🌱 I’m currently working as a MERN full stack developer.
 - 💞️ I’m looking to collaborate on any development projects .
 - 📫 How to reach me through my gmail mrsaad2129@gmail.com 
 
